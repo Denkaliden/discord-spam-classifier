@@ -5,7 +5,6 @@ university project: spam classifier for discord/ ml bot
 
 * **Источник:** Выгрузка логов публичных серверов Discord (тематические каналы поиска игры, LOLRU Community).
 * **Инструмент сбора:** [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) (формат CSV).
-* **Объем:** ~2500 сообщений.
 * **Воспроизводимость:** Сырые данные не правятся руками. Скрипт `src/prepare.py` реализует пайплайн raw -> processed (очистка от системного мусора, пустых строк и формирование файла для разметки).
 
 ## Структура проекта
