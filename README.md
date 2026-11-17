@@ -13,3 +13,5 @@ university project: spam classifier for discord/ ml bot
 * `data/` — папка для данных (игнорируется Git).
     * `raw/` — сырые выгрузки от DiscordChatExporter.
     * `processed/` — очищенные данные для разметки.
+
+Этот проект распространяется под лицензией MIT.
